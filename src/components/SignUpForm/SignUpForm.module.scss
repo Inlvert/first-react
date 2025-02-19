@@ -1,0 +1,12 @@
+$text-color: red;
+
+.form {
+  color: $text-color;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+   
+  label {
+    color: yellow;
+  }
+}
